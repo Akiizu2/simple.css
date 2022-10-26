@@ -1,4 +1,5 @@
 :root {
-  --text-color-primary: red;
+  --text-color-primary: black;
+  --text-color-primary-dark: white;
   --text-color-secondary: green;
 }
